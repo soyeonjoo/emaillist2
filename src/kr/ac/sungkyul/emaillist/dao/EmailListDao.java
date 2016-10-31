@@ -11,6 +11,7 @@ import java.util.List;
 
 import kr.ac.sungkyul.emaillist.vo.EmailListVo;
 
+
 public class EmailListDao {
 
 	public List<EmailListVo> getList() {
